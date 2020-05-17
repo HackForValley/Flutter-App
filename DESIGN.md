@@ -35,4 +35,4 @@ These are few simple guidelines to keep in mind while creating the app for 'Hack
 
 
 <br><br>
-<img width="50%" src="https://img.shields.io/badge/Designed%20By-ishandeveloper-blue?style=for-the-badge&logo=github"></img>
+<img width="25%" src="https://img.shields.io/badge/Designed%20By-ishandeveloper-blue?style=for-the-badge&logo=github"></img>
