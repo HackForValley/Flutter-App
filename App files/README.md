@@ -1,6 +1,4 @@
-# issue_3
-
-A new Flutter project.
+# HackForValley Flutter App
 
 ## Getting Started
 
